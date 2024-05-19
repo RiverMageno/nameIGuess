@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Final Project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="pretendImg">
+        <img src="PretendLogo.png" alt="">
+      </div>
+
+      <div class="homeButton">Home</div>
+      <div class="resumeButton">Resume</div>
+      <div class="galleryButton">Gallery</div>
+      <div class="contactButton">Contact</div>
+    </div>
+
+    <div class="containerTwo">
+      <img class="noNoJoe" src="JoeMama.png" alt="">
+      <h2 class="joeMama">Joe Mama</h2>
+      <p class="seniorCitizen"><strong>Senior Citizen</strong></p>
+      <p class="line">_____________________________________________________</p>
+      <br>
+      <p class="joeQuote">"America as a nation can be defined as a single word:<br>Iwasinthefootasdkjhasjckabcxdqiweywqfootuidhaksb...<br>excuse me, I was in the foothills of the Himalayas with<br>Xi Jinping, traveling with him, traveled 17,000 miles<br>when I was Vice President. I don't know that for a fact."</p>
+    </div>
+
+    <div class="containerThree">
+      <div class="blanky"> </div>
+    </div>
+
+    <div class="containerFour">
+      <div><strong>Technical Skills</strong></div>
+      <div><strong>Soft Skills</strong></div>
+      <div><strong>Hobbies</strong></div>
+    </div>
+
+    <div class="containerFive">
+      <div class="blue">asfaasdfawaerassdf<br><hr>dsfwerascwere<br><hr>ewerwerimlxgr</div>
+      <div class="pink">potnwerassacsafwebs<br><hr>qsrwtawesasfsavyni<br><hr>ymkweraczxeccy</div>
+      <div class="lime">Chocolate chocolate chip<br><hr>SODAAAAAA!<br><hr>???????</div>
+    </div>
+
+    <div id="adviceContainer"></div>
+    <script src="script.js"></script> 
+  </body>
+
+  <a class="gitGud" href="https://github.com/">Github</a>
+
+</html>
